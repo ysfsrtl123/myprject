@@ -1,0 +1,36 @@
+* {
+box-sizing: border-box;
+}
+body {
+    font-family: "Nunito Sans", sans-serif;
+    margin: 0;
+}
+ #menü{
+   
+   display: flex;
+   align-items: center;
+  height: 80px;
+  background-color:beige;
+  border-top: solid 2px;
+  border-bottom: 2px solid black;
+  padding-left: 400px;
+  
+ }
+ #logo{
+    padding-left: 150px;
+    font-size: 30px;
+    line-height: 80px;
+ } 
+ nav a {
+    text-decoration: none;
+    margin: 50px; 
+    color: #000;
+    
+ }
+ nav{
+    border-left: solid 2px black;
+    border-right: solid 2px black;
+
+    
+ }
+ 
